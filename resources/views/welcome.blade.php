@@ -193,56 +193,57 @@
                 <div class="row">
                     <div class="col-md-4 hidden-sm hidden-xs">
                         <div class="custom-module">
-                            <img src="assets/upload/device_01.png" alt="" class="img-responsive wow slideInLeft">
+                            <img src="assets/images/p1.jpeg" alt="" class="img-responsive wow slideInLeft">
                         </div><!-- end module -->
                     </div><!-- end col -->
                     <div class="col-md-8">
                         <div class="custom-module p40l">
-                            <h2>We are a passionate <mark>learning system</mark> from<br>
-                            London. Do beautiful and easy-to-use digital <br>
-                            design & web development</h2>
-
-                            <p>Nam dictum sem, ipsum aliquam . Etiam sit amet fringilla lacus. Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. Praesent sed nisi eleifend, fermentum orci amet, iaculis libero.</p>
-
+                            <h2>Kami adalah <mark>sistem pembelajaran</mark> yang berdedikasi<br>
+                                dari Jakarta. Menyediakan desain digital & pengembangan web <br>
+                                yang mudah digunakan untuk pendidikan.</h2>
+                        
+                            <p>Temukan pengalaman belajar yang lebih baik. Kami menawarkan platform yang didesain untuk memudahkan siswa dan guru. Akses berbagai fitur dan konten pendidikan yang berkualitas.</p>
+                        
                             <hr class="invis">
-
+                        
                             <div class="row">
                                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 first">
                                     <ul class="check">
-                                        <li>Custom Shortcodes</li>
-                                        <li>Visual Page Builder</li>
-                                        <li>Unlimited Shortcodes</li>
-                                        <li>Responsive Theme</li>
-                                        <li>Tons of Layouts</li>
+                                        <li>Modul Pembelajaran Kustom</li>
+                                        <li>Pembangun Halaman Visual</li>
+                                        <li>Materi Tak Terbatas</li>
+                                        <li>Tema Responsif</li>
+                                        <li>Berbagai Tata Letak Kelas</li>
                                     </ul><!-- end check -->
                                 </div><!-- end col-lg-4 -->
                                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                                     <ul class="check">
-                                        <li>Font Awesome Icons</li>
-                                        <li>Pre-Defined Colors</li>
-                                        <li>AJAX Transitions</li>
-                                        <li>High Quality Support</li>
-                                        <li>Unlimited Options</li>
+                                        <li>Ikon Pendidikan Font Awesome</li>
+                                        <li>Warna yang Telah Ditentukan</li>
+                                        <li>Transisi Halaman Interaktif</li>
+                                        <li>Dukungan Berkualitas Tinggi</li>
+                                        <li>Pengaturan Tak Terbatas</li>
                                     </ul><!-- end check -->    
                                 </div><!-- end col-lg-4 -->
                                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 last">
                                     <ul class="check">
-                                        <li>Shopping Layouts</li>
-                                        <li>Pre-Defined Fonts</li>
-                                        <li>Style Changers</li>
-                                        <li>Footer Styles</li>
-                                        <li>Header Styles</li>
+                                        <li>Tata Letak e-Learning</li>
+                                        <li>Font untuk Pendidikan</li>
+                                        <li>Pengubah Gaya Tema</li>
+                                        <li>Gaya Footer Sekolah</li>
+                                        <li>Gaya Header Sekolah</li>
                                     </ul><!-- end check -->
                                 </div><!-- end col-lg-4 --> 
                             </div><!-- end row -->   
-
+                        
                             <hr class="invis">
-
+                        
                             <div class="btn-wrapper">
-                                <a href="#" class="btn btn-primary">Learn More About us</a>
+                                <a href="#" class="btn btn-primary">Pelajari Lebih Lanjut Tentang Kami</a>
                             </div>
-
+                        
                         </div><!-- end module -->
+                        
                     </div><!-- end col -->
                 </div><!-- end row -->
             </div><!-- end container -->
@@ -251,179 +252,149 @@
         <section class="section gb">
             <div class="container">
                 <div class="section-title text-center">
-                    <h3>Recent Courses</h3>
+                    <h3>Kursus Terbaru</h3>
                     <p>Maecenas sit amet tristique turpis. Quisque porttitor eros quis leo pulvinar, at hendrerit sapien iaculis. Donec consectetur accumsan arcu, sit amet fringilla ex ultricies.</p>
                 </div><!-- end title -->
-
+        
                 <div id="owl-01" class="owl-carousel owl-theme owl-theme-01">
                     <div class="caro-item">
                         <div class="course-box">
                             <div class="image-wrap entry">
-                                <img src="assets/upload/course_01.jpg" alt="" class="img-responsive">
+                                <img src="assets/images/l1.jpeg" alt="Kursus Matematika" class="img-responsive">
                                 <div class="magnifier">
-                                     <a href="#" title=""><i class="flaticon-add"></i></a>
+                                    <a href="#" title=""><i class="flaticon-add"></i></a>
                                 </div>
                             </div><!-- end image-wrap -->
                             <div class="course-details">
                                 <h4>
-                                    <small>Javascript</small>
-                                    <a href="#" title="">Modern JavaScript Linting With ESLint</a>
+                                    <small>Matematika</small>
+                                    <a href="#" title="">Kursus Matematika Dasar untuk Pemula</a>
                                 </h4>
-                                <p>Fusce interdum, elit sit amet vehicula malesuada, eros libero elementum orci.</p>
+                                <p>Pahami konsep dasar matematika dengan cara yang menyenangkan.</p>
                             </div><!-- end details -->
                             <div class="course-footer clearfix">
                                 <div class="pull-left">
                                     <ul class="list-inline">
-                                        <li><a href="#"><i class="fa fa-user"></i> 21</a></li>
-                                        <li><a href="#"><i class="fa fa-clock-o"></i> 15 Min.</a></li>
+                                        <li><a href="#"><i class="fa fa-user"></i> 50</a></li>
+                                        <li><a href="#"><i class="fa fa-clock-o"></i> 2 Jam</a></li>
                                     </ul>
                                 </div><!-- end left -->
-
+        
                                 <div class="pull-right">
                                     <ul class="list-inline">
-                                        <li><a href="#">$22.00</a></li>
+                                        <li><a href="#">$15.00</a></li>
                                     </ul>
-                                </div><!-- end left -->
+                                </div><!-- end right -->
                             </div><!-- end footer -->
                         </div><!-- end box -->
-                    </div><!-- end col -->
-
+                    </div><!-- end caro-item -->
+        
                     <div class="caro-item">
                         <div class="course-box">
                             <div class="image-wrap entry">
-                                <img src="assets/upload/course_02.jpg" alt="" class="img-responsive">
+                                <img src="assets/images/l2.jpeg" alt="Kursus Sains" class="img-responsive">
                                 <div class="magnifier">
-                                     <a href="#" title=""><i class="flaticon-add"></i></a>
+                                    <a href="#" title=""><i class="flaticon-add"></i></a>
                                 </div>
                             </div><!-- end image-wrap -->
                             <div class="course-details">
                                 <h4>
-                                    <small>Design</small>
-                                    <a href="#" title="">Designing Game UI Assets in Adobe Illustrator</a>
+                                    <small>Sains</small>
+                                    <a href="#" title="">Eksplorasi Sains dengan Praktikum Menarik</a>
                                 </h4>
-                                <p>Curabitur condimentum velit non odio mattis tristique. Nam vitae orci aliquam. </p>
+                                <p>Pelajari sains melalui eksperimen praktis dan menarik.</p>
                             </div><!-- end details -->
                             <div class="course-footer clearfix">
                                 <div class="pull-left">
                                     <ul class="list-inline">
-                                        <li><a href="#"><i class="fa fa-user"></i> 41</a></li>
-                                        <li><a href="#"><i class="fa fa-clock-o"></i> 33 Min.</a></li>
+                                        <li><a href="#"><i class="fa fa-user"></i> 30</a></li>
+                                        <li><a href="#"><i class="fa fa-clock-o"></i> 1.5 Jam</a></li>
                                     </ul>
                                 </div><!-- end left -->
-
+        
                                 <div class="pull-right">
                                     <ul class="list-inline">
-                                        <li><a href="#">$55.00</a></li>
+                                        <li><a href="#">$20.00</a></li>
                                     </ul>
-                                </div><!-- end left -->
+                                </div><!-- end right -->
                             </div><!-- end footer -->
                         </div><!-- end box -->
-                    </div><!-- end col -->
-
+                    </div><!-- end caro-item -->
+        
                     <div class="caro-item">
                         <div class="course-box">
                             <div class="image-wrap entry">
-                                <img src="assets/upload/course_03.jpg" alt="" class="img-responsive">
+                                <img src="assets/images/l3.jpeg" alt="Kursus Bahasa Inggris" class="img-responsive">
                                 <div class="magnifier">
-                                     <a href="#" title=""><i class="flaticon-add"></i></a>
+                                    <a href="#" title=""><i class="flaticon-add"></i></a>
                                 </div>
                             </div><!-- end image-wrap -->
                             <div class="course-details">
                                 <h4>
-                                    <small>PHP Coding</small>
-                                    <a href="#" title="">How to Become a Web Developer: Learn PHP</a>
+                                    <small>Bahasa Inggris</small>
+                                    <a href="#" title="">Bahasa Inggris untuk Pemula</a>
                                 </h4>
-                                <p>Donec auctor nec nibh sit amet pulvinar. Mauris nulla elit, lacinia ac facilisis mattis.</p>
+                                <p>Pelajari bahasa Inggris dengan cara yang interaktif dan menyenangkan.</p>
                             </div><!-- end details -->
                             <div class="course-footer clearfix">
                                 <div class="pull-left">
                                     <ul class="list-inline">
-                                        <li><a href="#"><i class="fa fa-user"></i> 35</a></li>
-                                        <li><a href="#"><i class="fa fa-clock-o"></i> 1 Hrs.</a></li>
+                                        <li><a href="#"><i class="fa fa-user"></i> 40</a></li>
+                                        <li><a href="#"><i class="fa fa-clock-o"></i> 1 Jam</a></li>
                                     </ul>
                                 </div><!-- end left -->
-
+        
                                 <div class="pull-right">
                                     <ul class="list-inline">
-                                        <li><a href="#">$51.00</a></li>
+                                        <li><a href="#">$18.00</a></li>
                                     </ul>
-                                </div><!-- end left -->
+                                </div><!-- end right -->
                             </div><!-- end footer -->
                         </div><!-- end box -->
-                    </div><!-- end col -->
-
+                    </div><!-- end caro-item -->
+        
                     <div class="caro-item">
                         <div class="course-box">
                             <div class="image-wrap entry">
-                                <img src="assets/upload/course_04.jpg" alt="" class="img-responsive">
+                                <img src="assets/images/l4.jpeg" alt="Kursus Seni" class="img-responsive">
                                 <div class="magnifier">
-                                     <a href="#" title=""><i class="flaticon-add"></i></a>
+                                    <a href="#" title=""><i class="flaticon-add"></i></a>
                                 </div>
                             </div><!-- end image-wrap -->
                             <div class="course-details">
                                 <h4>
-                                    <small>PHP Coding</small>
-                                    <a href="#" title="">How to Build a Custom Theme for Drupal 8</a>
+                                    <small>Seni</small>
+                                    <a href="#" title="">Kreativitas dalam Seni: Melukis dan Menggambar</a>
                                 </h4>
-                                <p>Pellentesque ut enim dictum, interdum lorem eget, vulputate eros sed felis euismod.</p>
+                                <p>Jelajahi kreativitas Anda dengan teknik melukis dan menggambar.</p>
                             </div><!-- end details -->
                             <div class="course-footer clearfix">
                                 <div class="pull-left">
                                     <ul class="list-inline">
-                                        <li><a href="#"><i class="fa fa-user"></i> 35</a></li>
-                                        <li><a href="#"><i class="fa fa-clock-o"></i> 45 Min.</a></li>
+                                        <li><a href="#"><i class="fa fa-user"></i> 25</a></li>
+                                        <li><a href="#"><i class="fa fa-clock-o"></i> 2 Jam</a></li>
                                     </ul>
                                 </div><!-- end left -->
-
+        
                                 <div class="pull-right">
                                     <ul class="list-inline">
-                                        <li><a href="#">$51.00</a></li>
+                                        <li><a href="#">$30.00</a></li>
                                     </ul>
-                                </div><!-- end left -->
+                                </div><!-- end right -->
                             </div><!-- end footer -->
                         </div><!-- end box -->
-                    </div><!-- end col -->
-
-                    <div class="caro-item">
-                        <div class="course-box">
-                            <div class="image-wrap entry">
-                                <img src="assets/upload/course_01.jpg" alt="" class="img-responsive">
-                                <div class="magnifier">
-                                     <a href="#" title=""><i class="flaticon-add"></i></a>
-                                </div>
-                            </div><!-- end image-wrap -->
-                            <div class="course-details">
-                                <h4>
-                                    <small>Javascript</small>
-                                    <a href="#" title="">Modern JavaScript Linting With ESLint</a>
-                                </h4>
-                                <p>Fusce interdum, elit sit amet vehicula malesuada, eros libero elementum orci.</p>
-                            </div><!-- end details -->
-                            <div class="course-footer clearfix">
-                                <div class="pull-left">
-                                    <ul class="list-inline">
-                                        <li><a href="#"><i class="fa fa-user"></i> 21</a></li>
-                                        <li><a href="#"><i class="fa fa-clock-o"></i> 15 Min.</a></li>
-                                    </ul>
-                                </div><!-- end left -->
-
-                                <div class="pull-right">
-                                    <ul class="list-inline">
-                                        <li><a href="#">$22.00</a></li>
-                                    </ul>
-                                </div><!-- end left -->
-                            </div><!-- end footer -->
-                        </div><!-- end box -->
-                    </div><!-- end col -->
-                </div><!-- end row -->
-
+                    </div><!-- end caro-item -->
+                </div><!-- end owl-carousel -->
+        
                 <hr class="invis">
-
+        
                 <div class="section-button text-center">
-                    <a href="#" class="btn btn-primary">View All Courses</a>
+                    <a href="#" class="btn btn-primary">Lihat Semua Kursus</a>
                 </div>
             </div><!-- end container -->
         </section>
+        
+        
 
         <section class="section db p120">
             <div class="container">
