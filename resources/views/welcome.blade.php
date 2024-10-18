@@ -239,13 +239,13 @@
                             <hr class="invis">
                         
                             <div class="btn-wrapper">
-                                <a href="#" class="btn btn-primary">Pelajari Lebih Lanjut Tentang Kami</a>
+                                <a href="##" class="btn btn-primary">Pelajari Lebih Lanjut Tentang Kami</a>
                             </div>
                         
                         </div><!-- end module -->
                         
                     </div><!-- end col -->
-                </div><!-- end row -->
+                </div>
             </div><!-- end container -->
         </section>
 
